@@ -2,9 +2,8 @@
 <h3 align="center">AI + IoT Developer | Building practical systems with ESP32, Computer Vision, and Web Tech</h3>
 
 <p align="center">
-  <a href="https://github.com/Pruthvi-cs">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL_HERE">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">LinkedIn</a>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthvi_rai_404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviraj-a-rai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pruthvi-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajarasa13@gmail.com) 
+
 </p>
 
 ---
@@ -69,11 +68,6 @@ Embedded/network-oriented project exploring monitoring and connectivity workflow
 ## 🤝 Let’s Connect
 I’m open to collaboration on **AI**, **IoT**, and **backend** projects.
 
-- GitHub: https://github.com/Pruthvi-cs  
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/  
-- Email: YOUR_EMAIL_HERE
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthvi_rai_404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviraj-a-rai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pruthvi-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajarasa13@gmail.com) 
 
 # 💻 Tech Stack:
