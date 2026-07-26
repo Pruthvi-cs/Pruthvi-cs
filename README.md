@@ -1,6 +1,77 @@
-# 💫 About Me:
-<br>🎓 Engineering student with a strong interest in real-world problem solving  <br>💡 Passionate about healthcare innovation and smart diagnostic systems  <br>🔬 Currently working on non-invasive sensing technologies  <br>⚙️ Skilled in combining hardware + software (embedded systems approach)  <br>📚 Continuously learning AI, electronics, and system design  
+<h1 align="center">Hi, I'm Pruthvi 👋</h1>
+<h3 align="center">AI + IoT Developer | Building practical systems with ESP32, Computer Vision, and Web Tech</h3>
 
+<p align="center">
+  <a href="https://github.com/Pruthvi-cs">GitHub</a> •
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">LinkedIn</a>
+</p>
+
+---
+
+## 🚀 About Me
+- I build **real-world AI and IoT applications** that combine hardware + software.
+- Interested in **Edge AI, automation, safety systems, and full-stack integration**.
+- Currently improving my work in:
+  - scalable backend systems
+  - deployment-ready ML projects
+  - production-grade project documentation
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`C` `C++` `JavaScript` `TypeScript` `Python` `HTML` `Shell`
+
+**Domains & Tools**  
+- **IoT/Embedded:** ESP32, sensor integrations, device control workflows  
+- **AI/ML:** Computer Vision, Jupyter workflows, model experimentation  
+- **Web/Backend:** Node.js ecosystem, API development, dashboard integrations  
+- **Dev Tools:** Git, GitHub, Codespaces, VS Code
+
+---
+
+## 🌟 Featured Projects
+
+### 1) Smart IoT Control System with ESP32 + Telegram  
+🔗 https://github.com/Pruthvi-cs/Smart-IoT-Control-System-with-ESP32-and-TELEGRAM  
+Built an IoT control system integrating **ESP32**, **Telegram bot commands**, and a **web dashboard** for remote control and monitoring.
+
+### 2) Drowsiness Detection System (DDS)  
+🔗 https://github.com/Pruthvi-cs/Drowsiness_Detection_System-DDS  
+An AI-based project focused on detecting driver drowsiness using computer vision techniques and notebook-based experimentation.
+
+### 3) Women Safety Backend  
+🔗 https://github.com/Pruthvi-cs/women-safety-backend  
+Backend-focused project aimed at supporting safety-centric application logic and service integration.
+
+### 4) ESP32 NET Monitor  
+🔗 https://github.com/Pruthvi-cs/ESP32_NET_Monitor-  
+Embedded/network-oriented project exploring monitoring and connectivity workflows using ESP32.
+
+---
+
+## 📌 What I’m Working On
+- Converting project prototypes into **production-quality repositories**
+- Improving README quality with architecture, setup guides, and demo evidence
+- Contributing more actively to open source through PRs and issue discussions
+
+---
+
+## 📈 GitHub Goals (2026)
+- Make consistent contributions every week
+- Publish polished versions of my top 3 projects
+- Contribute to 5+ external open-source repositories
+
+---
+
+## 🤝 Let’s Connect
+I’m open to collaboration on **AI**, **IoT**, and **backend** projects.
+
+- GitHub: https://github.com/Pruthvi-cs  
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/  
+- Email: YOUR_EMAIL_HERE
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthvi_rai_404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviraj-a-rai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pruthvi-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajarasa13@gmail.com) 
