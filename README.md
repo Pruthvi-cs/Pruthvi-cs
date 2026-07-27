@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
+
 ---
 
 ## 💫 About Me
