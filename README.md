@@ -41,38 +41,57 @@ open_to:
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-**Languages**  
-`C` `C++` `JavaScript` `TypeScript` `Python` `HTML` `Shell`
+<div align="center">
 
-**Domains & Tools**  
-- **IoT/Embedded:** ESP32, sensor integrations, device control workflows  
-- **AI/ML:** Computer Vision, Jupyter workflows, model experimentation  
-- **Web/Backend:** Node.js ecosystem, API development, dashboard integrations  
-- **Dev Tools:** Git, GitHub, Codespaces, VS Code
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,nodejs,git,github,vscode,linux" />
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 1) Smart IoT Control System with ESP32 + Telegram  
-🔗 https://github.com/Pruthvi-cs/Smart-IoT-Control-System-with-ESP32-and-TELEGRAM  
-Built an IoT control system integrating **ESP32**, **Telegram bot commands**, and a **web dashboard** for remote control and monitoring.
+<div align="center">
 
-### 2) Drowsiness Detection System (DDS)  
-🔗 https://github.com/Pruthvi-cs/Drowsiness_Detection_System-DDS  
-An AI-based project focused on detecting driver drowsiness using computer vision techniques and notebook-based experimentation.
+| Project | Description | Link |
+|---|---|---|
+| 🔌 Smart IoT Control System | ESP32 + Telegram Bot + Dashboard for remote control and monitoring | [Repository](https://github.com/Pruthvi-cs/Smart-IoT-Control-System-with-ESP32-and-TELEGRAM) |
+| 🧠 Drowsiness Detection System | Computer vision-based safety project for drowsiness detection | [Repository](https://github.com/Pruthvi-cs/Drowsiness_Detection_System-DDS) |
+| 🛡️ Women Safety Backend | Backend workflows and service logic for safety-focused applications | [Repository](https://github.com/Pruthvi-cs/women-safety-backend) |
+| 📡 ESP32 NET Monitor | Embedded networking and monitoring experiments on ESP32 | [Repository](https://github.com/Pruthvi-cs/ESP32_NET_Monitor-) |
 
-### 3) Women Safety Backend  
-🔗 https://github.com/Pruthvi-cs/women-safety-backend  
-Backend-focused project aimed at supporting safety-centric application logic and service integration.
-
-### 4) ESP32 NET Monitor  
-🔗 https://github.com/Pruthvi-cs/ESP32_NET_Monitor-  
-Embedded/network-oriented project exploring monitoring and connectivity workflows using ESP32.
+</div>
 
 ---
+
+## Animated GitHub Insights
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pruthvi-cs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-cs&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=Pruthvi-cs&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-cs&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/portfolio/output/snake.svg" alt="snake animation" />
+</div>
+
+
 
 ## 📌 What I’m Working On
 - Converting project prototypes into **production-quality repositories**
