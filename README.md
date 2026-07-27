@@ -16,15 +16,29 @@
 </div>
 ---
 
-## 🚀 About Me
-- I build **real-world AI and IoT applications** that combine hardware + software.
-- Interested in **Edge AI, automation, safety systems, and full-stack integration**.
-- Currently improving my work in:
-  - scalable backend systems
-  - deployment-ready ML projects
-  - production-grade project documentation
+## 💫 About Me
+
+```yaml
+name: Pruthvi
+role: AI + IoT Developer
+focus:
+  - Edge AI
+  - Embedded Systems (ESP32)
+  - Backend + Full-Stack Integration
+currently_building:
+  - Practical intelligent systems with real-world use cases
+open_to:
+  - Collaboration
+  - Open-source contributions
+  - Internship / Full-time opportunities
+```
+
+- I build **hardware + software integrated applications**.
+- I’m focused on **production-ready engineering**, not just prototypes.
+- My current goal is to improve project architecture, testability, and documentation quality.
 
 ---
+
 
 ## 🛠️ Tech Stack
 
