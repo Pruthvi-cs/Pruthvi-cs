@@ -2,10 +2,18 @@
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00C2FF&center=true&vCenter=true&width=980&lines=Hi+%F0%9F%91%8B+I'm+Pruthvi;AI+%2B+IoT+Developer;Building+Practical+Intelligent+Systems;Open+to+Collaboration+%7C+Internships+%7C+Full-time+Roles" alt="Typing SVG" />
 </h1>
+<br/>
+
+<a href="https://github.com/Pruthvi-cs">
+  <img src="https://img.shields.io/badge/GitHub-Pruthvi--cs-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:virajarasa13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/pruthviraj-a-rai">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthvi_rai_404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviraj-a-rai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pruthvi-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajarasa13@gmail.com) 
-
 ---
 
 ## 🚀 About Me
