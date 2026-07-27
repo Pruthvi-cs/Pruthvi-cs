@@ -128,6 +128,11 @@ I’m open to collaboration on **AI**, **IoT**, and **backend** projects.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pruthvi-cs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" alt="GitHub Trophies" />
+</p>
 [![](https://visitcount.itsvg.in/api?id=Pruthvi-cs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
