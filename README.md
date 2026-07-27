@@ -88,9 +88,8 @@ open_to:
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Pruthvi-cs/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/portfolio/output/snake.svg" alt="snake animation" />
 </div>
-
 
 
 ## 📌 What I’m Working On
