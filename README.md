@@ -91,6 +91,9 @@ open_to:
   <img src="https://raw.githubusercontent.com/Pruthvi-cs/portfolio/output/snake.svg" alt="snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Pruthvi-cs/output/profile-night-rainbow.svg" alt="3D contribution graph" />
+</div>
 
 ## 📌 What I’m Working On
 - Converting project prototypes into **production-quality repositories**
