@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assects/i3.png" height="20%">
+</p>
 <div align="center">
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00C2FF&center=true&vCenter=true&width=980&lines=Hi+%F0%9F%91%8B+I'm+Pruthvi;AI+%2B+IoT+Developer;Building+Practical+Intelligent+Systems;Open+to+Collaboration+%7C+Internships+%7C+Full-time+Roles" alt="Typing SVG" />
