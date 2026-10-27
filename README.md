@@ -54,7 +54,8 @@ open_to:
 
 ---
 
-##  Featured Projects
+##  Featured Projects details
+
 
 <div align="center">
 
