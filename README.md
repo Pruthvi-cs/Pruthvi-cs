@@ -80,7 +80,8 @@ open_to:
 
 ---
 
-## Contribution Activity Graph  report
+## Contribution Activity Graph  report updated
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-cs&theme=tokyo-night&hide_border=true&area=true" />
