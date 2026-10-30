@@ -80,7 +80,8 @@ open_to:
 
 ---
 
-## Contribution Activity Graph  report updated
+## Contribution Activity Graph  report updated graph
+
 
 
 <div align="center">
